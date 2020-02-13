@@ -15,4 +15,5 @@ This is only a basic model and the purpose of this application was to illustrate
 How To Use This
 ---------------
 `pip install -r requirements.txt`
+
 `python epidmic.py`
