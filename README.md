@@ -16,4 +16,4 @@ How To Use This
 ---------------
 `pip install -r requirements.txt`
 
-`python epidmic.py`
+`python epidemic.py`
