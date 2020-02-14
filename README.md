@@ -26,4 +26,4 @@ How To Use This
 - Run the simulation through:
 `python epidemic.py`
 
-- Press the Space bar to launch or re-launch the simulation
+- Press the Space bar to run or re-run the simulation
