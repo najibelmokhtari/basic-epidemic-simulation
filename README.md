@@ -14,6 +14,11 @@ This is only a basic model and the purpose of this application was to illustrate
 
 How To Use This
 ---------------
-`pip install -r requirements.txt`
+- `pip install -r requirements.txt`
 
+- Modify constants such as `PROBA_DEATH`, `CONTAGION_RATE` and `VACCINATION_RATE`.
+
+- Run the simulation through:
 `python epidemic.py`
+
+- Press the Space bar to launch or re-launch the simulation
